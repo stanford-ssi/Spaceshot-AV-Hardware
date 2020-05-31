@@ -432,6 +432,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for ThunderGuppy\Design Rule Check - Guppy.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Fabrication Outputs\Guppy.step
 DItemRevisionGUID=
 
