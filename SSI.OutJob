@@ -167,7 +167,7 @@ Configuration6_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType7=BOM_PartType
 OutputName7=Copy of Bill of Materials
 OutputCategory7=Report
-OutputDocumentPath7=ThunderGuppy_3.0.BomDoc
+OutputDocumentPath7=ThunderGuppy.BomDoc
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
@@ -220,7 +220,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\timv\SSI\Spaceshot\Avionics\ThunderGuppy_3.0\.\Fabrication Outputs\
+OutputFilePath3=C:\Users\timv\SSI\ThunderGuppy\.\Fabrication Outputs\
 ReleaseManaged3=0
 OutputBasePath3=.\
 OutputPathMedia3=="Fabrication Outputs"
@@ -237,7 +237,7 @@ OpenOutput3=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\timv\SSI\Spaceshot\Avionics\ThunderGuppy_1.0\.\Fabrication Outputs\ThunderGuppy Rev 1 Schematic Prints.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\timv\SSI\Spaceshot\Avionics\ThunderGuppy_3.0\.\Fabrication Outputs\
+RelativeOutputPath3=C:\Users\timv\SSI\ThunderGuppy\.\Fabrication Outputs\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
